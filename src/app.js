@@ -28,7 +28,7 @@ for (let i = 0;i<3;i++){
 }
 
 
-console.log("<ul>")
+console.log("<ul>") 
 
 
 console.log(konutKredileri)
