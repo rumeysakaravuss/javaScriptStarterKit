@@ -13,7 +13,7 @@ cart.map(praduct=>{
      + praduct.unitPrice * praduct.quantity+"</li>")
 })
 console.log("</ul>")
-
+ 
 
 
 
