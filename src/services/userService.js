@@ -5,7 +5,7 @@ export default class UserService{
     }
 
     list(){
-        console.log("kullanıcılar listelendi")
+        console.log("kullanıcılar listelendi") 
     }
 
     getById(){
